@@ -1,2 +1,2 @@
 # MuseCritic
-The repository for MuseCritic's iOS app.
+The repository for MuseCritic's iOS app 🎶🎧.
